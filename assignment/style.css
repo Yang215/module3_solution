@@ -1,1 +1,20 @@
+body{
+	
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: #D3D3D3;
+	border-radius: 0;
+	border:0;
+}
+
+.navbar-brand h1 { /* Food,LLC name*/
+	font-family: Arial, Helvetica, sans-serif;	
+	margin-left: 0;
+	color: black;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+} 
 
